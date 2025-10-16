@@ -5,7 +5,7 @@
 
 🎯 **About Me**
 - 🌱 Currently learning **Machine Learning** and **Statistics**
-- 👯 Open to collaborating on **Data Analysis & ML Projects**
+- 👯 Open to collaborating on **Data Science & ML Projects**
 - 📫 Reach me at: **sharvarip2004@gmail.com**
 
 ---
