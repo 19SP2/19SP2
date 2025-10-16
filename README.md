@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sharvari</h1>
-<h3 align="center">A Passionate Data Analyst based in Sharjah, United Arab Emirates 🇦🇪</h3>
+<h3 align="center">ML & Data Science Enthusiast</h3>
 
 ---
 
